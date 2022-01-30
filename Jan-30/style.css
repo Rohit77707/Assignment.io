@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #181D31;
+    background-color: #89B5AF;
+    font-size: 24px;
+  }
+  
