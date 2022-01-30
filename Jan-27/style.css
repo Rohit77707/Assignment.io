@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #181D31;
+    background-color: #89B5AF;
+    font-size: 24px;
+  }
+  
+  .todo-item,
+  .input-form {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .input-form input {
+    padding: 5px 10px;
+    margin-right: 5px;
+  }
+  
+  .todo-item {
+    margin: 10px 0;
+  }
+  
