@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@1,700&display=swap');
+
+body{
+    margin: 0%;
+    text-align: center;
+    align-items: center;
+}
+.search{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.search input{
+    width:400px;
+    position: absolute;
+    height: 50px;
+    border-radius: 10px;
+}
+.search i{
+    position: relative;
+    left: 150px;
+    top:2px;
+}
+.container img{
+    margin-top: 30px;
+    height:400px;
+    width: 400px;
+}
