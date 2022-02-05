@@ -1,0 +1,38 @@
+body{
+    margin: 0%;
+}
+.container{
+    width: 250;
+    height: 100vh;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+p{
+    background-color: black;
+    height: 70px;
+    width: 200px;
+    font-size: 50px;
+    display: inline-flex;
+    color:white;
+    justify-content: center;
+}
+.progress{
+    width:200px;
+    height: 20px;
+    background: gray;
+    position: relative;
+
+
+}
+.progress-inner{
+    background: lightblue;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
